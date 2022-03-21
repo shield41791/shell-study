@@ -1,0 +1,11 @@
+      10 echodemo.sh
+      22 fordemo.sh
+      21 fordemo2.sh
+      13 ifdemo.sh
+       0 logs/fordemo2_log.log
+      13 readdemo.sh
+      10 tmp/file1.sh
+      13 tmp/file2.sh
+      16 tmp/file3.sh
+      13 tmp/file4.sh
+Total count : 10
